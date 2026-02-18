@@ -1,4 +1,4 @@
-# Autonomous Women's Safety & Fire Automation System 🛡️🌬️
+# Autonomous Women's Safety & Fire Automation System 
 
 **Problem Statement ID:** HK-SAFETY-012  
 **Event:** Hack KRMU 5.0 (Feb 18-20, 2026)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Team Members
+## Team Members
 * **Ashish Yadav** (2301010413) — *Team Lead*
 * **Kundan Singh** (2301010404)
 * **Ritik Kumar** (2401730227)
@@ -15,14 +15,14 @@
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 Developed during a 54-hour hackathon, this system addresses a critical gap in modern infrastructure: **Reactive vs. Proactive Safety**. Standard safety systems notify, but they don't intervene. 
 
 Forensic research from tragedies like the Surat Takshashila Fire (2019) and Madurai (2024) proves that smoke asphyxiation kills victims long before manual help or heat sensors trigger. This is an autonomous, PAC-driven system that uses **Reverse Suction Technology** to clear smoke from exit paths in under 2 seconds, effectively turning a building's HVAC into a life-support system.
 
 ---
 
-## ✨ Core Innovation & Intelligent Features
+##  Core Innovation & Intelligent Features
 
 * 🌪️ **Reverse Suction (Active Purge):** Instead of just sounding a siren, the system instantly reverses HVAC fans to pull smoke out of hallways, maintaining a breathable envelope for occupants.
 * 🎙️ **Scream Recognition AI:** High-decibel frequency analysis detects human distress/panic screams in high-risk zones (like women's hostels) even before smoke particulates reach sensor thresholds.
@@ -31,7 +31,7 @@ Forensic research from tragedies like the Surat Takshashila Fire (2019) and Madu
 
 ---
 
-## 🛠️ Technical Tech Stack
+##  Technical Tech Stack
 
 | Component | Technology |
 | :--- | :--- |
